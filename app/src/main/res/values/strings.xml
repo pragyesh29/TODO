@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TODO</string>
+    <string name="tasks">Tasks</string>
+    <string name="myDay">My Day</string>
+    <string name="demo_text_for_my_application">Demo text for my application</string>
+    <string name="save">save</string>
+</resources>
